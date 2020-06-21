@@ -1,4 +1,6 @@
-Ivory: Early Stage Design Exploration Tool for Integrated Voltage Regulator
+Ivory 2.0: System-Level Early-Stage ModelingFramework for IVR-enable Power Delivery System
+
+Current version is written in C++. A newer Python version will be released soon.
 
 Ivory contains two parts: static model part and dynamic model part.
 Static Model part gives out efficiency, area and ripple of an integrated voltage regulator.
